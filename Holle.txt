@@ -1,3 +1,0 @@
-Holle 1
-hadoop 2
-hive 3
